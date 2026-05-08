@@ -1,4 +1,7 @@
 Face Detector
+
+
+
 Overview
 Face Detector is a computer vision project that detects human faces from images or live webcam feeds using image processing and machine learning techniques. The system identifies faces in real time and highlights them with detection boundaries.
 Features
